@@ -1,0 +1,15 @@
+{
+  "name": "sockchat",
+  "version": "1.0.0",
+  "description": "simple websocket chat app with socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Wilkie",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
